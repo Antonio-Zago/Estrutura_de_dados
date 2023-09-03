@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693265533 source:c:\users\anton\desktop\fatec\2023_2_sem\estrutura_dados\removetop\main.c
+	<stdio.h>
+	<stdlib.h>
+
