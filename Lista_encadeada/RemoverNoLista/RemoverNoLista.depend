@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692547129 source:d:\fatec\2023_2_semestre\estrutura_de_dados\lista_encadeada\removernolista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

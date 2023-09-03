@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1691941312 source:d:\fatec\2023_2_semestre\estrutura_de_dados\lista_encadeada\inserirfimlista\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691942553 source:d:\fatec\2023_2_semestre\estrutura_de_dados\lista_encadeada\inseririniciolistaalternativo\main.c
+	<stdio.h>
+	<stdlib.h>
+

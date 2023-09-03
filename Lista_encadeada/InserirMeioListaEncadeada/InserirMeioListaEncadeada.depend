@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691959056 source:d:\fatec\2023_2_semestre\estrutura_de_dados\lista_encadeada\inserirmeiolistaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
